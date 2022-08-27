@@ -2,7 +2,7 @@
 <Project DefaultTargets="Build">
   <Sdk Name="Microsoft.Build.Sql" Version="0.1.3-preview" />
   <PropertyGroup>
-    <Name>StudentPortal</Name>
+    <Name>StudentPortalDB</Name>
     <ProjectGuid>{4B0EC16F-1651-4D40-A4F8-5321706D2145}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.Sql150DatabaseSchemaProvider</DSP>
     <ModelCollation>1033, CI</ModelCollation>
