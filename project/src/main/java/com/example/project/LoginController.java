@@ -1,3 +1,4 @@
+package com.example.project;
 public class LoginController {
     public static boolean CheckAdmin(LoginCredentials login){
         if(login.getUsername().equals("admin") && login.getPassword().equals("admin")){

@@ -1,3 +1,4 @@
+package com.example.project;
 public class LoginCredentials {
     private String Username;
     private String Password;
